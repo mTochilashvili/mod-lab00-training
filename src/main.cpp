@@ -2,6 +2,6 @@
 #include "fun.h"
 
 int main() {
-    int x = 4, n = 4;
-    return power(4, 4);
+    int x = 5, n = 3;
+    return power(x, n);
 }
